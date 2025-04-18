@@ -96,6 +96,15 @@ namespace Assignment5_CSE445_Group_62
         protected global::System.Web.UI.WebControls.Label lblSummary;
 
         /// <summary>
+        /// lblSession control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblSession;
+
+        /// <summary>
         /// PlayerStatsPanel1 control.
         /// </summary>
         /// <remarks>
@@ -105,12 +114,93 @@ namespace Assignment5_CSE445_Group_62
         protected global::Assignment5_CSE445_Group_62.UserControls.PlayerStatsPanel PlayerStatsPanel1;
 
         /// <summary>
-        /// lblSession control.
+        /// btnTopScorer control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label lblSession;
+        protected global::System.Web.UI.WebControls.Button btnTopScorer;
+
+        /// <summary>
+        /// lblTopScorer control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblTopScorer;
+
+        /// <summary>
+        /// btnStandings control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnStandings;
+
+        /// <summary>
+        /// lblStandings control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblStandings;
+
+        /// <summary>
+        /// btnRecentGames control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnRecentGames;
+
+        /// <summary>
+        /// lblRecentGames control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblRecentGames;
+
+        /// <summary>
+        /// txtInputToHash control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtInputToHash;
+
+        /// <summary>
+        /// btnHashInput control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnHashInput;
+
+        /// <summary>
+        /// lblHashResult control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblHashResult;
+
+        /// <summary>
+        /// lblLastVisit control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblLastVisit;
     }
 }
